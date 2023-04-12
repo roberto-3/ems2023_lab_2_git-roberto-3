@@ -22,6 +22,7 @@ Thumbs.db
 *#
 *~
 *.sublime-*
+sandbox/
 
 # Build Artifacts
 
